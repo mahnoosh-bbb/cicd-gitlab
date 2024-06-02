@@ -1,8 +1,0 @@
-version: "3"
-services:
-  hellow:
-    image: hello:3
-    container_name: hello-go
-    ports:
-    - 80:8080
-
