@@ -1,0 +1,1 @@
+certbot certonly --standalone --preferred-challenges http --email mahnoosh.bahrami91@gmail.com --agree-tos -d mahnoosh.dev-mb.ir
